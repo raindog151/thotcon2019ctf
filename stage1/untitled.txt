@@ -1,0 +1,2 @@
+flag: a6ad2799-8a51-4ddb-bb55-83504106106e
+next stage: https://token.wtf/something/fartnoise.htm
